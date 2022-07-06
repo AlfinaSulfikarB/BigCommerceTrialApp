@@ -1,2 +1,2 @@
-# BigCommerceTrialApp
+# BigCommerce
 Created with CodeSandbox
